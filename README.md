@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"></td><td valign="middle">сертификат ISTQB</br>2021</td></tr>
+    <tr><td width="30%" valign="bottom"></td><td valign="middle">Тестирование REST API</br>2022</td>
+    <tr><td width="30%" valign="bottom"></td><td valign="middle">Git: инструменты тестировщика</br>2023</td>
+    <tr><td width="30%" valign="bottom"></td><td valign="middle">QA.GURU | Python | Автоматизация тестирования<a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
+  </br>
