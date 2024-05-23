@@ -1,4 +1,4 @@
-### Приветствую на своей странице! :four_leaf_clover:
+### Добро пожаловать на мою страницу! :four_leaf_clover:
 Меня зовут Дарья. С 2020 года я - инженер по тестированию программного обеспечения.</br>
 <!--
 **Daria1004/Daria1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
